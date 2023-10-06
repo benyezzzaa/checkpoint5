@@ -1,0 +1,13 @@
+div{
+    background-color: white;
+    padding: '10px';            
+    border: '1px solid gray'
+}
+.joueur1{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    display: flex;
+    margin-right: 500px ;
+}
